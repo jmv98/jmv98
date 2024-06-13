@@ -57,7 +57,7 @@ Acredito que a tecnologia está em constante evolução e, para se destacar, é 
 <img align="right" alt="GIF" src="https://github.com/jmv98/jmv98/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/jmv98/jmv98/assets/150188099/54094290-8363-4415-a401-4565a7020204"/><h4>Meus interesses pessoais:</h4>
+<h4><img height="20" alt="GIF" src="https://github.com/jmv98/jmv98/assets/150188099/54094290-8363-4415-a401-4565a7020204"/>Meus interesses pessoais:</h4>
 
 <div align="justify">
 <p> 
