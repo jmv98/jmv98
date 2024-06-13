@@ -59,10 +59,8 @@ Acredito que a tecnologia está em constante evolução e, para se destacar, é 
 <div align="justify">
 <p> 
 Fora do ambiente acadêmico, meus interesses pessoais são variados. Gosto de estar sempre exercitando minhas habilidades em programação, lendo livros e assistindo a podcasts.<br /> 
-
-<br /> Sou um torcedor apaixonado do maior de Minas, o Clube Atlético Mineiro 🐔 <br />
-
-<br /> Gosto muito de Valorant, CS, Rainbow Six e, para mudar um pouquinho a jogatina de FPS, gosto muito de jogar World of Warcraft, um jogo que jogo desde os meus 12 anos. <br />
+Sou um torcedor apaixonado do maior de Minas, o Clube Atlético Mineiro 🐔 <br />
+Gosto muito de Valorant, CS, Rainbow Six e, para mudar um pouquinho a jogatina de FPS, gosto muito de jogar World of Warcraft, um jogo que jogo desde os meus 12 anos. <br />
 
 Visão de Futuro:
 <p> Minha visão de futuro é crescer na área de desenvolvimento, aprendendo mais todos os dias e colaborando com o conhecimento adquirido. Meu maior sonho é conseguir trabalhar com o que amo, que é programação, e me tornar uma referência para as pessoas.
