@@ -58,10 +58,8 @@ Acredito que a tecnologia está em constante evolução e, para se destacar, é 
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/jmv98/jmv98/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
-</div>
 
-<h4><img height="20" alt="GIF" src="https://github.com/jmv98/jmv98/assets/150188099/54094290-8363-4415-a401-4565a7020204"/>Meus interesses pessoais</h4>
+<h4>Meus interesses pessoais</h4>
 <div align="justify">
 <p> 
 Fora do ambiente acadêmico, meus interesses pessoais são variados. Gosto de estar sempre exercitando minhas habilidades em programação, lendo livros e assistindo a podcasts.<br /> 
@@ -72,6 +70,7 @@ Gosto muito de Valorant, CS, Rainbow Six e, para mudar um pouquinho a jogatina d
 <p> Minha visão de futuro é crescer na área de desenvolvimento, aprendendo mais todos os dias e colaborando com o conhecimento adquirido. Meu maior sonho é conseguir trabalhar com o que amo, que é programação, e me tornar uma referência para as pessoas.
 No meu GitHub, você encontrará projetos que refletem essa paixão e dedicação.Estou sempre em busca de novas ideias e colaborações. Se você compartilha interesses semelhantes ou tem alguma sugestão, não hesite em entrar em contato. Vamos juntos transformar nossa paixão por tecnologia em projetos incríveis!
 
+<img height="20" alt="" src="https://github.com/jmv98/jmv98/assets/150188099/28eddc93-ba38-49b9-9115-884ac83d9f65"/>
 
 </p>
 </div>
