@@ -17,18 +17,19 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-</ br><td><a href="https://github.com/jmv98" target="_blank"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/jmv98" target="_blank"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<tr>
-<td><a href="mailto:gustavoandrade2598@gmail.com" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:gustavoandrade2598@gmail.com" target="_blank"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.link/9blocs" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.link/9blocs" target="_blank"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/__andrde/" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/__andrde/" target="_blank"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/gustavo-luiz-andrade-costa//" target="_blank"><img src="https://github.com/jmv98/jmv98/assets/150188099/617b1f2f-5148-4db1-ab90-f8d9d1a1a78f" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/gustavo-luiz-andrade-costa" target="_blank"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/596849345958117400" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
+</td>-->
+<td><a href="https://discordapp.com/users/833061180217229383" target="_blank"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
