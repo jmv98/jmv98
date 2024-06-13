@@ -3,8 +3,9 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/jmv98/jmv98/blob/main/img/header_aramuni.png?raw=true"/>
-</div>
+<img align="center" alt="Header" src=""/>
+</div>![animated_gamer_room](https://github.com/jmv98/jmv98/assets/150188099/6f6c4e15-7597-4c6a-ae8f-81ba81f2fd77)
+
 
 -----
 
