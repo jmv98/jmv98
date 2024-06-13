@@ -17,6 +17,9 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
+<td><a href="https://github.com/jmv98" target="_blank"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a> </td>
+</tr>
+<tr>
 <td><a href="mailto:gustavoandrade2598@gmail.com" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.link/9blocs" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
@@ -154,26 +157,14 @@ No meu GitHub, você encontrará projetos que refletem essa paixão e dedicaçã
 <td><img src="https://github.com/jmv98/jmv98/blob/main/img/qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
 </tr>
 </table>
-<a href="https://www.linkedin.com/in/jmv98/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jmv98@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5531980402103" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://discordapp.com/users/959151773728251914" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gustavo-luiz-andrade-costa" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gustavoandrade2598@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.link/9blocs" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://discordapp.com/users/596849345958117400" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/22lih5eniohc7dawfxohlo7wy?si=45c49575a1ba4cb7" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
-<a href="https://us05web.zoom.us/j/2425760565?pwd=aDR1L3RRY2x4U09iWDVTRWxxMjdmQT09" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a><br />
-<a href="https://meet.google.com/ova-vvcq-hbx" target="_blank"><img alt="Meet" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white"/></a>
-<a href="https://slack.com/app_redirect?channel=UVD9N6VCL" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
-<a href="https://www.instagram.com/jmv98/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.playstation.com/pt-br/support/account/add-friends-psn/" target="_blank"><img alt="PSN" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/></a>
+<a href="https://www.instagram.com/__andrde/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/jmv98/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br />
-<a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img alt="Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-<a href="https://orcid.org/
-0000-0001-7538-5927" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-<a href="https://www.twitch.tv/jmv98" target="_blank"><img alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/jmv98" target="_blank"><img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="https://join.skype.com/invite/dcKhOAFaJ5cz" target="_blank"><img alt="skype" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/></a>
 <br />
-<a href="https://stackoverflow.com/users/22206141/aramuni" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a href="https://gitlab.com/jmv98" target="_blank"><img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://github.com/jmv98" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
