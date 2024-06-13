@@ -164,8 +164,6 @@ No meu GitHub, você encontrará projetos que refletem essa paixão e dedicaçã
 <a href="https://discordapp.com/users/596849345958117400" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/22lih5eniohc7dawfxohlo7wy?si=45c49575a1ba4cb7" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 <a href="https://www.instagram.com/__andrde/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://steamcommunity.com/id/jmv98/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br />
-<br />
 <a href="https://github.com/jmv98" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
@@ -238,7 +236,7 @@ No meu GitHub, você encontrará projetos que refletem essa paixão e dedicaçã
 </td>
 </tr>
 <tr>
- <td align="center" colspan="2"></td>
+<td align="center" colspan="2"></td>
 </tr> 
 </table>
 </div>
