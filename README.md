@@ -17,7 +17,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/jmv98" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/jmv98" target="_blank"><img src="https://github.com/jmv98/jmv98/assets/150188099/3029d250-e67b-41d6-8597-0dc8d22b9ecd"/></a>
 </td>
 <td><a href="mailto:gustavoandrade2598@gmail.com" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -25,7 +25,7 @@
 </td>
 <td><a href="https://www.instagram.com/__andrde/" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/gustavo-luiz-andrade-costa" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/gustavo-luiz-andrade-costa" target="_blank"><img src="https://github.com/jmv98/jmv98/assets/150188099/7b7356ba-0268-46f9-b117-f31f7b7677ec" width="50px" height="50px"/></a>
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/jmv98/jmv98/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
