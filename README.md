@@ -29,7 +29,7 @@
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/jmv98/jmv98/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
-<td><a href="https://discordapp.com/users/833061180217229383" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/833061180217229383" target="_blank"><img src="https://github.com/jmv98/jmv98/assets/150188099/728fb7d2-65fa-4aea-85bc-6ba235c8d675" height="50px"/></a>
 </td>
 </tr>
 <tr>
