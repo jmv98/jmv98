@@ -40,8 +40,6 @@
 
 -----
 
-<img align="center" alt="Header" src="https://github.com/jmv98/jmv98/assets/150188099/2e2b341d-fe7d-4797-ae1f-f8c540833591" <br />
-
 wight="20" alt="GIF" src="https://github.com/jmv98/jmv98/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
