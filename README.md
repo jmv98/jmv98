@@ -3,8 +3,9 @@
 -----
 
 <div>
-<img align="center" alt="Header" src=""/>
-</div>![animated_gamer_room](https://github.com/jmv98/jmv98/assets/150188099/6f6c4e15-7597-4c6a-ae8f-81ba81f2fd77)
+<img align="center" alt="Header" src="![animated_gamer_room](https://github.com/jmv98/jmv98/assets/150188099/31b115d9-23e3-4f01-b8f4-29c7eea822da)
+"/>
+</div>
 
 
 -----
