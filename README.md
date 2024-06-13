@@ -136,12 +136,10 @@ No meu GitHub, você encontrará projetos que refletem essa paixão e dedicaçã
 ![header profile](https://github.com/jmv98/jmv98/assets/150188099/8ed353f1-8df8-4655-9f57-9a4222b427f7)
 
 -----
-
-<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
-
-<td>
-<a href="https://github.com/jmv98" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/jmv98/jmv98/assets/150188099/30a11747-424b-4f2b-9062-238daae73205"/></a>
-</td>
+<div style="text-align: center;">
+<a href="https://github.com/jmv98" target="_blank">
+<img align="center" width="400px" height="120px" src="https://github.com/jmv98/jmv98/assets/150188099/30a11747-424b-4f2b-9062-238daae73205"/></a>
+</div>
 <div>
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=jmv98"/>
 </div>
