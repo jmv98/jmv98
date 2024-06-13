@@ -126,32 +126,6 @@ No meu GitHub, você encontrará projetos que refletem essa paixão e dedicaçã
 -----
 
 <div>
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/jmv98/jmv98/blob/main/img/spotify.gif?raw=true"/> Gustavo's Spotify Data</summary>
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=tbh0x0ryetvqpbylibsem0zzv">
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=tbh0x0ryetvqpbylibsem0zzv" alt="Data Card for Spotify">
-</a>
-</details>
-</div>
-<div>
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
-</div>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=tbh0x0ryetvqpbylibsem0zzv&count={10}/>
-</div>
-<div>
-<details>
-<summary>:headphones: :guitar: :drum:</summary>
-
-</details>
-</div>
-</div>
-
------
-
-<div>
 <a href="https://www.linkedin.com/in/gustavo-luiz-andrade-costa" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gustavoandrade2598@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.link/9blocs" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
