@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, me chamo <code>Gustavo</code>, tenho 26 anos, moro em BH. Atualmente sou <code>estudante</code> do curso de Sistemas da Computação, Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
+<i><b>Olá</b> :wave:, me chamo <code>Gustavo</code>, tenho 26 anos, moro em BH. Atualmente sou <code>estudante</code> no curso de Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
 </div>
 
 -----
