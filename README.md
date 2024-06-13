@@ -40,7 +40,7 @@
 
 -----
 
-<img height="20" alt="GIF" alt="GIF" src="https://github.com/jmv98/jmv98/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+<img height="20" alt="GIF" alt="GIF" src="https://github.com/jmv98/jmv98/blob/main/img/soulgem.gif?raw=true"/>**Sobre mim:**
 
 <div align="justify">
 <p>
