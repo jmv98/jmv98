@@ -153,11 +153,6 @@ No meu GitHub, você encontrará projetos que refletem essa paixão e dedicaçã
 -----
 
 <div>
-<table align="right"> 
-<tr>
-<td><img src="https://github.com/jmv98/jmv98/blob/main/img/qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
-</tr>
-</table>
 <a href="https://www.linkedin.com/in/gustavo-luiz-andrade-costa" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gustavoandrade2598@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.link/9blocs" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
