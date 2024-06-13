@@ -106,7 +106,7 @@ No meu GitHub, você encontrará projetos que refletem essa paixão e dedicaçã
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/vhvaz/vhvaz/blob/main/img/vs.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/vhvaz/vhvaz/blob/main/img/intellij.png?raw=true"/></a></code>
-&nbsp
+&nbsp;
 
 -----
 
