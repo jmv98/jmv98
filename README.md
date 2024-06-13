@@ -137,17 +137,11 @@ No meu GitHub, você encontrará projetos que refletem essa paixão e dedicaçã
 
 -----
 <div style="text-align: center;">
-    <a href="https://github.com/jmv98" target="_blank">
-        <img align="center" width="400px" height="120px" src="https://github.com/jmv98/jmv98/assets/150188099/30a11747-424b-4f2b-9062-238daae73205"/>
-    </a>
+<a href="https://github.com/jmv98" target="_blank">
+<img align="center" width="400px" height="120px" src="https://github.com/jmv98/jmv98/assets/150188099/30a11747-424b-4f2b-9062-238daae73205"/></a>
 </div>
-
-<div style="text-align: center;">
-    <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=jmv98"/>
-</div>
-
-<div style="text-align: center;">
-    <img src="caminho-da-imagem-de-obrigado-pela-visita" alt="Obrigado pela visita!" width="400px" height="120px"/>
+<div>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=jmv98"/>
 </div>
 
 
