@@ -39,8 +39,10 @@
 </div>
 
 -----
-<img align="center" alt="Header" src="https://github.com/jmv98/jmv98/assets/150188099/0e1d4cf7-bcf6-4f67-89f6-ae5818c5f454"
-<img height="20" alt="GIF" src="https://github.com/jmv98/jmv98/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+
+<img align="center" alt="Header" src="https://github.com/jmv98/jmv98/assets/150188099/2e2b341d-fe7d-4797-ae1f-f8c540833591"
+
+ight="20" alt="GIF" src="https://github.com/jmv98/jmv98/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
 <p>
