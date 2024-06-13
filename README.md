@@ -20,7 +20,7 @@
 </td>
 <td><a href="https://www.instagram.com/__andrde/" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gustavo-luiz-andrade-costa//" target="_blank"><img src="https://github.com/jmv98/jmv98/assets/150188099/617b1f2f-5148-4db1-ab90-f8d9d1a1a78f" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/gustavo-luiz-andrade-costa//" target="_blank"><img src="https://github.com/jmv98/jmv98/assets/150188099/617b1f2f-5148-4db1-ab90-f8d9d1a1a78f" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://discordapp.com/users/596849345958117400" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
