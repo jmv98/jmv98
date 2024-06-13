@@ -17,8 +17,8 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/jmv98" target="_blank"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a> </td>
-</tr>
+<td><a href="https://github.com/jmv98" target="_blank"><img src="https://github.com/vhvaz/vhvaz/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
+</td>
 <tr>
 <td><a href="mailto:gustavoandrade2598@gmail.com" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
