@@ -11,6 +11,10 @@
 
 -----
 
+<div align="justify">
+<i><b>Olá</b> :wave:, me chamo <code>Gustavo</code>, tenho 26 anos, moro em BH. Atualmente sou <code>estudante</code> no curso de Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
+</div>
+
 <div align="center">
 <table>
 <tr>
@@ -36,10 +40,6 @@
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
-
-</div>
-<div align="justify">
-<i><b>Olá</b> :wave:, me chamo <code>Gustavo</code>, tenho 26 anos, moro em BH. Atualmente sou <code>estudante</code> no curso de Sistemas de Informação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>
 </div>
 
 -----
