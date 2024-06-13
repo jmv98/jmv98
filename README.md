@@ -54,25 +54,19 @@ Acredito que a tecnologia está em constante evolução e, para se destacar, é 
 <img align="right" alt="GIF" src="https://github.com/jmv98/jmv98/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/jmv98/jmv98/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+<img height="20" alt="GIF" src="https://github.com/jmv98/jmv98/assets/150188099/54094290-8363-4415-a401-4565a7020204"/>Meus interesses pessoais:
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>professor</code> da Ciência da Computação, <br />Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
-- :mortar_board: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>professor</code> nos cursos de Engenharia de <br />Software e Ciência da Computação.<br />
-- :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de<br /> squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
-- :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
-- :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
-- :trophy: &nbsp; Fui o professor destaque do curso de Sistemas de Informação<br /> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
-- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/jmv98/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/jmv98/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
-- :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
-- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
-- :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:jmv98@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
+Fora do ambiente acadêmico, meus interesses pessoais são variados. Gosto de estar sempre exercitando minhas habilidades em programação, lendo livros e assistindo a podcasts.>br />
+Sou um torcedor apaixonado do maior de Minas, o Clube Atlético Mineiro 🐔 <br />
+Gosto muito de Valorant, CS, Rainbow Six e, para mudar um pouquinho a jogatina de FPS, gosto muito de jogar World of Warcraft, um jogo que jogo desde os meus 12 anos. <br />
+
+/>Visão de Futuro:
+<p> Minha visão de futuro é crescer na área de desenvolvimento, aprendendo mais todos os dias e colaborando com o conhecimento adquirido. Meu maior sonho é conseguir trabalhar com o que amo, que é programação, e me tornar uma referência para as pessoas.
+No meu GitHub, você encontrará projetos que refletem essa paixão e dedicação.Estou sempre em busca de novas ideias e colaborações. Se você compartilha interesses semelhantes ou tem alguma sugestão, não hesite em entrar em contato. Vamos juntos transformar nossa paixão por tecnologia em projetos incríveis!
+
+
 </p>
 </div>
 </div>
