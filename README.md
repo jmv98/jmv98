@@ -62,7 +62,7 @@ Fora do ambiente acadêmico, meus interesses pessoais são variados. Gosto de es
 Sou um torcedor apaixonado do maior de Minas, o Clube Atlético Mineiro 🐔 <br />
 Gosto muito de Valorant, CS, Rainbow Six e, para mudar um pouquinho a jogatina de FPS, gosto muito de jogar World of Warcraft, um jogo que jogo desde os meus 12 anos. <br />
 
-/>Visão de Futuro:
+Visão de Futuro:
 <p> Minha visão de futuro é crescer na área de desenvolvimento, aprendendo mais todos os dias e colaborando com o conhecimento adquirido. Meu maior sonho é conseguir trabalhar com o que amo, que é programação, e me tornar uma referência para as pessoas.
 No meu GitHub, você encontrará projetos que refletem essa paixão e dedicação.Estou sempre em busca de novas ideias e colaborações. Se você compartilha interesses semelhantes ou tem alguma sugestão, não hesite em entrar em contato. Vamos juntos transformar nossa paixão por tecnologia em projetos incríveis!
 
