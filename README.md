@@ -70,7 +70,8 @@ Gosto muito de Valorant, CS, Rainbow Six e, para mudar um pouquinho a jogatina d
 <p> Minha visão de futuro é crescer na área de desenvolvimento, aprendendo mais todos os dias e colaborando com o conhecimento adquirido. Meu maior sonho é conseguir trabalhar com o que amo, que é programação, e me tornar uma referência para as pessoas.
 No meu GitHub, você encontrará projetos que refletem essa paixão e dedicação.Estou sempre em busca de novas ideias e colaborações. Se você compartilha interesses semelhantes ou tem alguma sugestão, não hesite em entrar em contato. Vamos juntos transformar nossa paixão por tecnologia em projetos incríveis!
 
-<img height="20" alt="" src="https://github.com/jmv98/jmv98/assets/150188099/28eddc93-ba38-49b9-9115-884ac83d9f65"/>
+![header profile](https://github.com/jmv98/jmv98/assets/150188099/8ed353f1-8df8-4655-9f57-9a4222b427f7)
+
 
 </p>
 </div>
