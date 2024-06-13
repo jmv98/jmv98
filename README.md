@@ -186,7 +186,7 @@ No meu GitHub, você encontrará projetos que refletem essa paixão e dedicaçã
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/jmv98/jmv98/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/jmv98/jmv98/blob/main/img/spotify.gif?raw=true"/> Gustavo's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
 </details>
 </div>
