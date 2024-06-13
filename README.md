@@ -17,7 +17,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/jmv98" target="_blank"><img src="https://github.com/jmv98/jmv98/assets/150188099/3029d250-e67b-41d6-8597-0dc8d22b9ecd"/></a>
+<td><a href="https://github.com/jmv98" target="_blank"><img src="https://github.com/jmv98/jmv98/assets/150188099/a4fa726f-8c8a-4fc8-a84a-a2efdb315b92"/></a>
 </td>
 <td><a href="mailto:gustavoandrade2598@gmail.com" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -29,7 +29,7 @@
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/jmv98/jmv98/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
-<td><a href="https://discordapp.com/users/833061180217229383" target="_blank"><img src="https://github.com/jmv98/jmv98/assets/150188099/728fb7d2-65fa-4aea-85bc-6ba235c8d675" height="50px"/></a>
+<td><a href="https://discordapp.com/users/833061180217229383" target="_blank"><img src="https://github.com/jmv98/jmv98/assets/150188099/959be5c3-b5a6-4a9f-a1d2-2bbe4e0b309b"/></a>
 </td>
 </tr>
 <tr>
