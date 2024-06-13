@@ -372,8 +372,8 @@ No meu GitHub, você encontrará projetos que refletem essa paixão e dedicaçã
 <a href="https://github.com/jmv98" target="_blank"><img src="https://github.com/jmv98/jmv98/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td>
-| Créditos: <a href="https://github.com/jmv98" target="_blank">© 2024 Aramuni</a><br />
-| Última atualização: 13/03/2024
+| Créditos: <a href="https://github.com/jmv98" target="_blank">© 2024 Jmv98</a><br />
+| Última atualização: 13/06/2024
 </td>
 </tr>
 <tr>
