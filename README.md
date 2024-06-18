@@ -59,7 +59,7 @@ Acredito que a tecnologia está em constante evolução e, para se destacar, é 
 <div>
 <div>
 
-<h4>Meus interesses pessoais</h4>
+<h4><img height="20" alt="GIF" src="https://github.com/jmv98/jmv98/assets/150188099/54094290-8363-4415-a401-4565a7020204"/>Meus interesses pessoais</h4>
 <div align="justify">
 <p> 
 Fora do ambiente acadêmico, meus interesses pessoais são variados. Gosto de estar sempre exercitando minhas habilidades em programação, lendo livros e assistindo a podcasts.<br /> 
